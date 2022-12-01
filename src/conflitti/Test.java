@@ -8,7 +8,7 @@ public class Test {
 		System.out.println("uno");
 		System.out.println("Buonaseeeeee");
 
-		int x = 15; 
+		int x = 15; double z = 52;
 		
 
 		System.out.println("Diego: modifica");
