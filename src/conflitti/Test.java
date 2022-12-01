@@ -1,0 +1,12 @@
+package conflitti;
+
+public class Test {
+
+	public static void main(String[] args) {
+		System.out.println("test");
+		System.out.println("prova");
+		System.out.println("uno");
+
+	}
+
+}
